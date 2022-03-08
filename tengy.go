@@ -1,1 +1,3 @@
-Function:Queen Code
+Package main
+Function {}
+
